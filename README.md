@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Lua
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Discord: Azriel 3715
+- 📫 How to reach me Discord: Zack~#2944
 
 <!---
 worlcheats/worlcheats is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
